@@ -13,3 +13,5 @@ Figma Demo URL: https://www.figma.com/proto/GfMCrzTeln4M0U4UiMppqJ/Ontario-COVID
 -	Latest news on COVID-19 in Canada
 
 # Volunteer and Dependent Registration 
+<img width="1073" alt="Screen Shot 2020-12-05 at 11 19 55 PM" src="https://user-images.githubusercontent.com/38083700/101271470-feff7d00-3750-11eb-92c6-7f805c114399.png">
+
