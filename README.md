@@ -12,3 +12,4 @@ Figma Demo URL: https://www.figma.com/proto/GfMCrzTeln4M0U4UiMppqJ/Ontario-COVID
 -	Functionality to find the nearest testing center on the map
 -	Latest news on COVID-19 in Canada
 
+# Volunteer and Dependent Registration 
