@@ -15,3 +15,13 @@ Figma Demo URL: https://www.figma.com/proto/GfMCrzTeln4M0U4UiMppqJ/Ontario-COVID
 # Volunteer and Dependent Registration 
 <img width="1073" alt="Screen Shot 2020-12-05 at 11 19 55 PM" src="https://user-images.githubusercontent.com/38083700/101271470-feff7d00-3750-11eb-92c6-7f805c114399.png">
 
+# Task Scheduling
+<img width="632" alt="Screen Shot 2020-12-05 at 11 26 48 PM" src="https://user-images.githubusercontent.com/38083700/101271513-6c131280-3751-11eb-8ec8-229a5272052c.png">
+
+# COVID-19 News
+
+
+# Contact Tracing
+
+# Find Nearest COVID-19 Testing center
+
