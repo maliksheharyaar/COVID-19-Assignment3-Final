@@ -19,9 +19,10 @@ Figma Demo URL: https://www.figma.com/proto/GfMCrzTeln4M0U4UiMppqJ/Ontario-COVID
 <img width="632" alt="Screen Shot 2020-12-05 at 11 26 48 PM" src="https://user-images.githubusercontent.com/38083700/101271513-6c131280-3751-11eb-8ec8-229a5272052c.png">
 
 # COVID-19 News
-
+<img width="268" alt="Screen Shot 2020-12-05 at 11 29 57 PM" src="https://user-images.githubusercontent.com/38083700/101271575-01160b80-3752-11eb-8d80-d7268a6c3464.png">
 
 # Contact Tracing
+<img width="625" alt="Screen Shot 2020-12-05 at 11 30 59 PM" src="https://user-images.githubusercontent.com/38083700/101271581-0a06dd00-3752-11eb-9214-f10d907c5537.png">
 
 # Find Nearest COVID-19 Testing center
-
+<img width="308" alt="Screen Shot 2020-12-05 at 11 31 17 PM" src="https://user-images.githubusercontent.com/38083700/101271582-0f642780-3752-11eb-8649-81ab7116e0a4.png">
