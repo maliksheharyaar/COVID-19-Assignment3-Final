@@ -1,7 +1,6 @@
 # COVID-19-Assignment3-Final
 COVID-19 Needs is an assistance application based on task scheduling. Users will create either a "Dependent" account where they will be able to publish task, and the "Volunteer" account would be able to view the availible task and accept the one that is the most suitable. The Dependents and the Volunteer can communicate through a messaging feature. Secondary features of this application include COVID-19 news updates, general COVID-19 information on sympotoms and precautions, Contact tracing, and nearby COVID-19 Testing centers locator.
 
-Figma public URL: https://www.figma.com/file/GfMCrzTeln4M0U4UiMppqJ/Ontario-COVID-Appication?node-id=0%3A1
 
 Figma Demo URL: https://www.figma.com/proto/GfMCrzTeln4M0U4UiMppqJ/Ontario-COVID-Appication?node-id=4%3A1&viewport=352%2C992%2C0.40792474150657654&scaling=scale-down&hide-ui=1
 
